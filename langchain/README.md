@@ -10,5 +10,9 @@ langsmith project: simple-not-ag2
 
 so get your setup with langsmith and then everything that runs and outputs nothing shows up in your langsmith dashboard
 
-see langsmith-display.png
+see test.png & test.py
+
+see chatty.py and chatty.png
+
+
 
